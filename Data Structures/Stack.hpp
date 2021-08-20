@@ -1,6 +1,6 @@
 
-#ifndef __FIXED_SIZE__QUEUE__
-#define __FIXED_SIZE__QUEUE__
+#ifndef __STACK_HPP__
+#define __STACK_HPP__
 
 template <typename TYPE>
 class Stack
@@ -57,5 +57,9 @@ size_t Stack<TYPE>::Size()
 	return (m_front);
 }
 
-#endif //__FIXED_SIZE__QUEUE__
+
+#endif //__STACK_HPP__
+
+
+
 
