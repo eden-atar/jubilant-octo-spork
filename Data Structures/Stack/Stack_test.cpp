@@ -1,7 +1,7 @@
 
-#include "pch.h"
-#include "Stack.hpp"
+
 #include <iostream>
+#include "Stack.hpp"
 
 using namespace std;
 
